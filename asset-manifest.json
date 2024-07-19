@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/karin-zohar-dev/static/css/main.d8204e10.css",
+    "main.css": "/karin-zohar-dev/static/css/main.9931d0d0.css",
     "main.js": "/karin-zohar-dev/static/js/main.c9147c7e.js",
     "index.html": "/karin-zohar-dev/index.html",
-    "main.d8204e10.css.map": "/karin-zohar-dev/static/css/main.d8204e10.css.map",
+    "main.9931d0d0.css.map": "/karin-zohar-dev/static/css/main.9931d0d0.css.map",
     "main.c9147c7e.js.map": "/karin-zohar-dev/static/js/main.c9147c7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8204e10.css",
+    "static/css/main.9931d0d0.css",
     "static/js/main.c9147c7e.js"
   ]
 }
