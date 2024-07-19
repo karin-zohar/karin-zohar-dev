@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/karinzohar.dev/static/css/main.31d6cfe0.css",
+    "main.js": "/karinzohar.dev/static/js/main.c9147c7e.js",
+    "index.html": "/karinzohar.dev/index.html",
+    "main.c9147c7e.js.map": "/karinzohar.dev/static/js/main.c9147c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c9147c7e.js"
+  ]
+}
