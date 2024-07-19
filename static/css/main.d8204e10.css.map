@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d8204e10.css","mappings":"AAAA,KACI","sources":["assets/styles/setup/variables.scss"],"sourcesContent":["body {\r\n    background-color: yellow;\r\n}"],"names":[],"sourceRoot":""}
