@@ -1,7 +1,7 @@
 {
   "name": "karin-dev",
   "version": "0.1.0",
-  "homepage": "https://karin-zohar.github.io/karinzohar.dev",
+  "homepage": "https://karin-zohar.github.io/karin-zohar-dev",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
