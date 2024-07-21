@@ -1,0 +1,19 @@
+.base-layout {
+    display: grid;
+    grid-template-rows: 1fr minmax(100vh, auto) 1fr;
+    grid-template-columns: 1fr;
+
+    > * {
+        grid-column: 1;
+    }
+
+    .app-header {
+        grid-row: 1;
+        background-color: lightblue;
+    }
+
+    .app-footer {
+        grid-row: 3;
+        background-color: lightpink;
+    }
+}

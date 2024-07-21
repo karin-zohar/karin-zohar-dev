@@ -1,11 +1,11 @@
 export function RootCmp() {
 
     return (
-        <div className="app-container">
-            <header>app header</header>
+        <div className="app-container base-layout">
+            <header className="app-header">app header</header>
             <main className="">main
             </main>
-            <footer>app footer</footer>
+            <footer className="app-footer">app footer</footer>
         </div>
     )
 }
