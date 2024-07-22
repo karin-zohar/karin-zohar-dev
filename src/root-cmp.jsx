@@ -1,11 +1,16 @@
+import { AppHeader } from "./cmps/app-header"
+import { AppFooter } from "./cmps/app-footer"
+import { HomePage} from "./pages/home-page"
+
 export function RootCmp() {
 
     return (
         <div className="app-container base-layout">
-            <header className="app-header">app header</header>
-            <main className="">main
+            <AppHeader />
+            <main className="">
+                <HomePage />
             </main>
-            <footer className="app-footer">app footer</footer>
+            <AppFooter />
         </div>
     )
 }
